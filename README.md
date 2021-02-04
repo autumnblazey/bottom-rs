@@ -1,7 +1,7 @@
 # bottom
 Perhaps you have found yourself in this situation before:
 
-![,,,,,,,,,](https://cdn.discordapp.com/attachments/644479051918082050/799905088541425664/bottom.jpg)
+![,,,,,,,,,](https://cdn.discordapp.com/attachments/234591790940815360/806809239850975242/20210204_025125.jpg)
 
 The divine bottom CLI exists to alleviate this pain. No longer will you struggle when communicating with the average Discord user.
 
